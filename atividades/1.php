@@ -1,0 +1,4 @@
+<?php
+// Atividade 1
+
+?>
